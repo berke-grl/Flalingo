@@ -13,7 +13,6 @@ Apache Maven
 Your preferred IDE (e.g., IntelliJ, Eclipse)
 Getting Started
 
-
 Configuration
 
 Security Configuration
@@ -35,3 +34,4 @@ Customization
 
 Feel free to customize the project according to your specific requirements. Modify the security configurations, user authentication logic, or extend the application with additional features.
 
+my changaes
